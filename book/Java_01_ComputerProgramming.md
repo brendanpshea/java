@@ -1,11 +1,19 @@
 
 Chapter 1  Computer Programming
 ===============================
+This book is your guide to thinking like a computer scientist, a way of approaching problems that draws from mathematics, engineering, and natural science. Let's break down what that means:
 
+1.  Mathematics: Computer scientists use formal languages, such as programming languages, to convey ideas in a structured and unambiguous way. It's like specifying the dimensions and materials when you're building a house; every detail matters.
 
-This book aims to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science. Like mathematicians, computer scientists use formal languages to denote ideas---specifically, computations. Like engineers, they design things, assemble components into systems and evaluate trade-offs among alternatives. And like scientists, they observe the behavior of complex systems, form hypotheses, and test predictions.
+2.  Engineering: We are also designers at heart, assembling pieces of code or hardware to create functioning systems. We evaluate trade-offs between different solutions, deciding what is the most effective way to build our digital "machines."
 
-An important skill for a computer scientist is problem-solving. It involves formulating problems, thinking creatively about solutions, and expressing them clearly and accurately. As it turns out, learning to program computers is an excellent opportunity to develop problem-solving skills. On one level, you will be learning to write Java programs, a valuable skill by itself. But on another level, you will use programming as a means to an end. As we go along, that end will become more evident.
+3.  Natural Science: Observation and experimentation are key. We observe how complex systems---like a computer network or a software application---behave, form hypotheses about them, and then test our ideas.
+
+4.  Philosophy: Here, we tackle the "why" and the "what if" questions. Philosophy teaches us to think critically and question assumptions. For instance, is the most efficient algorithm always the best choice, or are there ethical considerations? And what does it mean for computers to "think" in the context of artificial intelligence? It helps us understand the broader implications of our work, and approach problems that we don't (yet) a good understanding of.
+
+Armed with this multidisciplinary approach, one of the most crucial skills you'll develop is problem-solving. Think of it as a multi-step journey. First, you identify what you're up against; this is called formulating problems. It's like diagnosing an illness before you can treat it. Then, you brainstorm various treatments or solutions, which is thinking creatively about solutions. Finally, you write a prescription or lay down a course of action, and this is expressing solutions clearly and accurately.
+
+Learning to program, perhaps in Java for this course, serves dual purposes. On the surface, you're learning a valuable skill that's akin to learning how to assemble a car engine. But deeper than that, you're also learning how to think systematically and solve problems---skills that will serve you well in any endeavor. Programming becomes not just an end, but a means to enrich your ability to think, question, and solve. As we delve further into the material, you'll find that the act of coding is just one piece of a much larger puzzle.
 
 1.1  What Is a Computer?
 ------------------------
