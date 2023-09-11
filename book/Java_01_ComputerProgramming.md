@@ -8,27 +8,28 @@ An important skill for a computer scientist is problem-solving. It involves form
 
 1.1  What Is a Computer?
 ------------------------
+A **computer** is an electronic device designed to perform a wide range of tasks, from basic arithmetic calculations to complex data analysis and beyond. At its core, a computer consists of hardware and software that work in tandem to execute a set of instructions known as a program.
 
-When people hear the word *computer*, they often think of a desktop or a laptop. Not surprisingly, searching for "computer" on Google Images (<https://images.google.com/>) displays rows and rows of these types of machines. However, in a more general sense, a computer can be any type of device that stores and processes data.
+Here, **hardware** refers to the physical components of the computer, such as the central processing unit (CPU), memory, and storage devices. These components are responsible for carrying out the basic operations required to execute programs. **Software**, on the other hand, consists of the programs or sets of instructions that tell the hardware what to do. This can range from the operating system that manages the computer's resources, to applications like word processors or web browsers that perform specific tasks.
 
-Dictionary.com defines a computer as "a programmable electronic device designed to accept data, perform prescribed mathematical and logical operations at high speed, and display the results of these operations. Mainframes, desktop and laptop computers, tablets, and smartphones are some of the different types of computers."
+When you run a program, the CPU fetches the instructions from a storage device and loads them into the computer's memory. It then decodes and executes these instructions one at a time, utilizing other hardware components as needed. For example, if the program needs to store data, the CPU will write it to the memory or a storage device like a hard drive.
 
-Each type of computer has its own unique design, but internally they all share the same type of hardware. The two most important hardware components are processors (or CPUs) that perform simple calculations and memory (or RAM) that temporarily stores information. Figure [1.1](https://greenteapress.com/thinkjava7/html/chapter-01.html#fig.cpuram) shows what these components look like.
+Computers come in various forms and sizes, tailored for different functions:
 
-> * * * * *
->
-> ![](https://greenteapress.com/thinkjava7/html/thinkjava2_001.png)    ![](https://greenteapress.com/thinkjava7/html/thinkjava2_002.png)
->
-> | Figure 1.1: Example processor and memory hardware. |
->
-> * * * * *
+-   Desktop Computers: Common in households and offices, used for a variety of tasks like browsing the internet, playing games, and work-related activities.
 
-Users generally see and interact with touchscreens, keyboards, and monitors, but the processors and memory perform the actual computation. Nowadays it's fairly standard, even for a smartphone, to have at least eight processors and four gigabytes (four billion cells) of memory.
+-   Laptops: Portable computers with a similar range of capabilities as desktops but designed for mobility.
+
+-   Servers: Computers that manage network resources and are more powerful than typical desktops or laptops.
+
+-   Embedded Systems: Special-purpose computers designed for specific tasks like controlling a microwave or a car's engine.
+
+Each type of computer is suited for particular uses, but they all share the fundamental capability to execute programs, enabling them to perform various tasks.
 
 1.2  What Is Programming?
 -------------------------
 
-A program is a sequence of instructions that specifies how to perform a computation on computer hardware. The computation might be something mathematical, like solving a system of equations or finding the roots of a polynomial. It could also be a symbolic computation, like searching and replacing text in a document or (strangely enough) compiling a program.
+A **program** is a sequence of instructions that specifies how to perform a computation on computer hardware. The computation might be something mathematical, like solving a system of equations or finding the roots of a polynomial. It could also be a symbolic computation, like searching and replacing text in a document or (strangely enough) compiling a program.
 
 The details look different in different languages, but a few basic instructions appear in just about every language:
 
