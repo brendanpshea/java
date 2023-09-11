@@ -2,7 +2,6 @@
 Chapter 1  Computer Programming
 ===============================
 
-<iframe src="https://quizlet.com/821776603/test/embed?i=psvlh&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 This book aims to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science. Like mathematicians, computer scientists use formal languages to denote ideas---specifically, computations. Like engineers, they design things, assemble components into systems and evaluate trade-offs among alternatives. And like scientists, they observe the behavior of complex systems, form hypotheses, and test predictions.
 
@@ -14,7 +13,7 @@ A **computer** is an electronic device designed to perform a wide range of tasks
 
 Here, **hardware** refers to the physical components of the computer, such as the central processing unit (CPU), memory, and storage devices. These components are responsible for carrying out the basic operations required to execute programs. **Software**, on the other hand, consists of the programs or sets of instructions that tell the hardware what to do. This can range from the operating system that manages the computer's resources, to applications like word processors or web browsers that perform specific tasks.
 
-When you run a program, the CPU fetches the instructions from a storage device and loads them into the computer's memory. It then decodes and executes these instructions one at a time, utilizing other hardware components as needed. For example, if the program needs to store data, the CPU will write it to the memory or a storage device like a hard drive.
+When you run a program, the **CPU** fetches the instructions from a storage device and loads them into the computer's memory. It then decodes and executes these instructions one at a time, utilizing other hardware components as needed. For example, if the program needs to store data, the CPU will write it to the memory or a storage device like a hard drive.
 
 Computers come in various forms and sizes, tailored for different functions:
 
@@ -279,7 +278,7 @@ A great example of this principle is the Linux operating system, which contains 
 
 Finally, programming sometimes brings out strong emotions. If you are struggling with a difficult bug, you might feel angry, despondent, or embarrassed. Remember that you are not alone, and virtually every programmer has had similar experiences. Don't hesitate to reach out to a friend and ask questions!
 
-1.10  Vocabulary
+1.11  Vocabulary
 ----------------
 
 Throughout the book, we try to define each term the first time we use it. At the end of each chapter, we include the new terms and their definitions in order of appearance. If you spend some time learning this vocabulary, you will have an easier time reading the following chapters.
@@ -316,7 +315,7 @@ Throughout the book, we try to define each term the first time we use it. At the
 | Debugging | The process of finding and removing errors. |
 
 
-1.10 Signing Up for Repl.it and Running Your First Java Program
+1.12 Signing Up for Repl.it and Running Your First Java Program
 ---------------
 
 Before diving into the fascinating world of Java programming, you'll need an environment where you can write and run code. While there are various ways to do this, for this class, I highly recommend using Repl.it. It's a beginner-friendly, web-based integrated development environment (IDE) that requires no installation. You can write, compile, and run your Java programs all in one place.
@@ -358,7 +357,7 @@ Before diving into the fascinating world of Java programming, you'll need an env
 You've just written and run your first Java program using Repl.it. As you progress through this course, we'll be using this platform frequently to build and test various Java programs. Happy coding!
 
 
-1.11 Exercises
+1.13 Exercises
 ---------------
 
 At the end of each chapter, we include exercises you can do with the things you've learned. We encourage you to at least attempt every problem. You can't learn to program only by reading about it; you have to practice. Here, for the coding questions, you should open up repl.it and create your own programs.
