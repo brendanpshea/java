@@ -11,7 +11,7 @@ An important skill for a computer scientist is problem-solving. It involves form
 ------------------------
 A **computer** is a machine designed to process information. It's a bit like a very obedient dog that can perform tricks, solve problems, and follow commands, but it does so by crunching numbers and following instructions known as algorithms. The heart of a computer lies in its hardware and software.
 
-**Hardware** refers to the physical components that you can touch: the Central Processing Unit (CPU), which is the brain of the computer; memory, which is the computer's short-term and long-term storage; and other parts like the monitor, keyboard, and mouse. Think of the CPU as the dog's brain, constantly processing commands. Memory is like the dog's ability to remember commands and tricks. These components work together in a harmonious dance to get tasks done.
+**Hardware** refers to the physical components that you can touch: the **Central Processing Unit (CPU)((, which is the brain of the computer; **memory**, which is the computer's short-term and long-term storage; and other parts like the monitor, keyboard, solid state drives, and mouse. Think of the CPU as the dog's brain, constantly processing commands. Memory is like the dog's ability to remember commands and tricks. These components work together in a harmonious dance to get tasks done.
 
 **Software**, on the other hand, is a set of instructions that tells the hardware what to do. Imagine teaching your dog new tricks; the commands you use are like the software. The CPU takes these instructions from the software and executes them, using the memory to store and retrieve information as needed.
 
