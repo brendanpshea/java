@@ -26,6 +26,15 @@ Computers come in various forms and sizes, tailored for different functions:
 
 Each type of computer is suited for particular uses, but they all share the fundamental capability to execute programs, enabling them to perform various tasks.
 
+> * * * * *
+>
+> ![](https://greenteapress.com/thinkjava7/html/thinkjava2_001.png)    ![](https://greenteapress.com/thinkjava7/html/thinkjava2_002.png)
+>
+> | Figure 1.1: Example processor and memory hardware. |
+>
+> * * * * *
+
+
 1.2  What Is Programming?
 -------------------------
 
