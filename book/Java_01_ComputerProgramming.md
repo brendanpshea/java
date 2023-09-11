@@ -3,13 +3,13 @@ Chapter 1  Computer Programming
 ===============================
 This book is your guide to thinking like a computer scientist, a way of approaching problems that draws from mathematics, engineering, and natural science. Let's break down what that means:
 
-1.  Mathematics: Computer scientists use formal languages, such as programming languages, to convey ideas in a structured and unambiguous way. It's like specifying the dimensions and materials when you're building a house; every detail matters.
+1.  **Mathematics:** Computer scientists use **formal languages**, such as programming languages, to convey ideas in a structured and unambiguous way. It's like specifying the dimensions and materials when you're building a house; every detail matters.
 
-2.  Engineering: We are also designers at heart, assembling pieces of code or hardware to create functioning systems. We evaluate trade-offs between different solutions, deciding what is the most effective way to build our digital "machines."
+2.  **Engineering:** We are also designers at heart, assembling pieces of code or hardware to create functioning systems. We evaluate trade-offs between different solutions, deciding what is the most effective way to build our digital "machines."
 
-3.  Natural Science: Observation and experimentation are key. We observe how complex systems---like a computer network or a software application---behave, form hypotheses about them, and then test our ideas.
+3.  **Natural Science:** Observation and experimentation are key. We observe how complex systems---like a computer network or a software application---behave, form hypotheses about them, and then test our ideas.
 
-4.  Philosophy: Here, we tackle the "why" and the "what if" questions. Philosophy teaches us to think critically and question assumptions. For instance, is the most efficient algorithm always the best choice, or are there ethical considerations? And what does it mean for computers to "think" in the context of artificial intelligence? It helps us understand the broader implications of our work, and approach problems that we don't (yet) a good understanding of.
+4.  **Philosophy:(( Here, we tackle the "why" and the "what if" questions. Philosophy teaches us to think critically and question assumptions. For instance, is the most efficient algorithm always the best choice, or are there ethical considerations? And what does it mean for computers to "think" in the context of artificial intelligence? It helps us understand the broader implications of our work, and approach problems that we don't (yet) a good understanding of.
 
 Armed with this multidisciplinary approach, one of the most crucial skills you'll develop is problem-solving. Think of it as a multi-step journey. First, you identify what you're up against; this is called formulating problems. It's like diagnosing an illness before you can treat it. Then, you brainstorm various treatments or solutions, which is thinking creatively about solutions. Finally, you write a prescription or lay down a course of action, and this is expressing solutions clearly and accurately.
 
