@@ -173,7 +173,7 @@ publicclassGoodbye{
   publicstaticvoidmain(String[] args) {
   System.out.print("Goodbye, ");
   System.out.println("cruel world"); } }
-```java
+```
 
 But most other spaces are optional. For example, this program *is* legal:
 
