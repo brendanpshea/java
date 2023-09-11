@@ -2,8 +2,6 @@
 Chapter 1  Computer Programming
 ===============================
 
-<iframe src="https://quizlet.com/821776603/match/embed?i=psvlh&x=1jj1" height="500" width="100%" style="border:0"></iframe>
-
 This book aims to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science. Like mathematicians, computer scientists use formal languages to denote ideas---specifically, computations. Like engineers, they design things, assemble components into systems and evaluate trade-offs among alternatives. And like scientists, they observe the behavior of complex systems, form hypotheses, and test predictions.
 
 An important skill for a computer scientist is problem-solving. It involves formulating problems, thinking creatively about solutions, and expressing them clearly and accurately. As it turns out, learning to program computers is an excellent opportunity to develop problem-solving skills. On one level, you will be learning to write Java programs, a valuable skill by itself. But on another level, you will use programming as a means to an end. As we go along, that end will become more evident.
