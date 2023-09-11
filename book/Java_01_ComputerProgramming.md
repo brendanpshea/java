@@ -335,9 +335,11 @@ Before diving into the fascinating world of Java programming, you'll need an env
 
   Feel free to leave this as is for your first program.
 
-8.  To run your Java code, click the "Run" button typically found at the top of the page. After a few moments, you should see the output on the right side of the screen. If all goes well, it should display "Hello world!" 
+8.  To **compile** your java code, you'll go the "Console" window, and type `javac Main.java` (or whatever your java file is called).
+9. Once the file has been compiled, you **run** the program by typing `java Main` (or whatever your java file is called).
+10. You can can also use the **Run** button to run code. However, you need to aware that this will compile and run ALL java files that you have saved.  (So, this can sometimes cause problems!) 
 
-10.   Repl.it automatically saves your work, so there's no need to worry about losing your code.
+11.   Repl.it automatically saves your work, so there's no need to worry about losing your code.
 
 #### Congratulations!
 
@@ -347,7 +349,7 @@ You've just written and run your first Java program using Repl.it. As you progre
 1.11 Exercises
 ---------------
 
-At the end of each chapter, we include exercises you can do with the things you've learned. We encourage you to at least attempt every problem. You can't learn to program only by reading about it; you have to practice.
+At the end of each chapter, we include exercises you can do with the things you've learned. We encourage you to at least attempt every problem. You can't learn to program only by reading about it; you have to practice. Here, for the coding questions, you should open up repl.it and create your own programs.
 
 
 ### Exercise 1  
@@ -363,7 +365,7 @@ The vocabulary section at the end of each chapter is intended to highlight words
 
 ### Exercise 2  
 
-Before you do anything else, find out how to compile and run a Java program. Some environments provide sample programs similar to the example in Section [1.3](https://greenteapress.com/thinkjava7/html/chapter-01.html#hello).
+Before you do anything else, find out how to compile and run a Java program. Some environments provide sample programs similar to the example in Section 1.3.
 
 1.  Type in the Hello World program; then compile and run it.
 2.  Add a print statement that displays a second message after the Hello, World!. Say something witty like, How are you?. Compile and run the program again.
